@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="workout">Workout</string>
+    <string name="stats">Stats</string>
+    <string name="manage">Manage</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="select_workout">Select Workout</string>
+    <string name="kg">kg</string>
+    <string name="reps">reps</string>
+    <string name="total">Total</string>
+    <string name="average">Average</string>
+    <string name="improvement">Improvement</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="workout_name">Workout Name</string>
+    <string name="description">Description</string>
+    <string name="video_link">Video Link</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="no_workouts">No workouts yet</string>
+    <string name="no_data">No data available</string>
+</resources>
